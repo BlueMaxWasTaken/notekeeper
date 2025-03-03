@@ -1,2 +1,6 @@
-# Ignore Environment Files:
+# Environment Files:
 .venv
+.vscode
+
+# Database
+db.sqlite3
